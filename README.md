@@ -1,13 +1,13 @@
 # Dark Times
-### DDJ Project
+### Design and VideoGame Development Class Project
 
 ## Gameplay
  - Puzzle/Platformer
- - Challenge #4 : Gun that shoots through time
- - After jumping forward, time goes back to the start
- - Save your other version to complete level/section
+ - Operate a gun that shoots through time and space
+ - After using the gun to jump forward in time and space, a mirror version of you goes back to the starting point, travelling throught the same path in reverse
+ - Save your other version from blocks and barriers and push forward to complete level/section
 
-## TODO
+## FOCUS
  - Level design
- - Enemies
- - Organize code
+ - Obstacles/Puzzles
+ - Platforming
